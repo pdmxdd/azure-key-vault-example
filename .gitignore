@@ -1,0 +1,4 @@
+bin/
+secrets
+secrets.json
+key-vault-console-app/obj/
